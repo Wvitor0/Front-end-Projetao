@@ -1,0 +1,14 @@
+[
+    {
+        "id": 12,
+        "nome": "Pizza de calabresa",
+        "descricao": "Pizza de calabresa com tomas, queijo muçarela e orégano",
+        "valor": 50.00
+    },
+    {
+        "id": 15,
+        "nome": "Pizza portuguesa",
+        "descricao": "Pizza com ovo, milho, presunto, queijo parmesão, tomates e orégano",
+        "valor": 55.00
+    }
+]
